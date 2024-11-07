@@ -19,7 +19,7 @@
     font-family: 'Helvetica';
     font-style: normal;
     font-weight: 400 700;
-    src: url('/fonts/helvetica/helvetica_regular.woff') format('woff');
+    src: url('./fonts/helvetica/helvetica_regular.woff') format('woff');
 }
 
 
