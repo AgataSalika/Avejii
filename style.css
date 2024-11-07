@@ -345,7 +345,7 @@ nav a:hover::after {
 
 .four {
     position: relative;
-    background: url(/img/project_4.png) center/cover no-repeat;
+    background: url(./img/project_4.png) center/cover no-repeat;
 }
 
 .five {
